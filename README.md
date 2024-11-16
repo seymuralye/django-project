@@ -1,21 +1,4 @@
-<h1 align="center">Brennan's Django Showcase</h1>
-
-<!-- NEW BADGES-->
-<p align="center">
-<img alt="GitHub code size in bytes"
-src="https://img.shields.io/github/languages/code-size/brennanbrown/django-project"> <img alt="GitHub repo size"
-src="https://img.shields.io/github/repo-size/brennanbrown/django-project"> <img alt="GitHub top language"
-src="https://img.shields.io/github/languages/top/brennanbrown/django-project"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/brennanbrown/django-project"> <img alt="GitHub last commit"
-src="https://img.shields.io/github/last-commit/brennanbrown/django-project"> <img alt="GitHub" src="https://img.shields.io/github/license/brennanbrown/django-project"> <img alt="Website"
-src="https://img.shields.io/website?down_color=red&down_message=Offline%21&label=Status&up_color=darkgreen&up_message=Online%21&url=https%3A%2F%2Fdjango.life">
-<br />
-<img alt="GitHub followers"
-src="https://img.shields.io/github/followers/brennanbrown?label=Follow%20Me%21&style=social"> <img alt="GitHub watchers"
-src="https://img.shields.io/github/watchers/brennanbrown/django-project?label=Watch%21&style=social"> <img alt="GitHub stars"
-src="https://img.shields.io/github/stars/brennanbrown/django-project?label=Star%21&style=social"> <img alt="GitHub forks"
-src="https://img.shields.io/github/forks/brennanbrown/django-project?label=Fork%21&style=social">
-</p>
-
+<h1 align="center">Seymur's Django Project</h1>
 **Table of Contents:**
 
 - [About The Project](#about-the-project)
@@ -38,7 +21,7 @@ View project **[here!](http://django.life/)**
 
 Django—an open-source web framework that's designed on top of Python—can help you quickly bring your website ideas to life. This project utilizes Bootstrap 4 and vanilla JavaScript for the front-end, and a PostgresSQL database, with GraphQL used for API functionality. It also uses Selenium for test-driven development. Finally, this is will be deployed on a [DigitalOcean](https://digitalocean.com/) Droplet under their smallest plan, so I apologize for any issues regarding speed or connectivity!
 
-For more information about specific areas of this project, please refer to my **[personal notes](https://github.com/brennanbrown/django-project/blob/master/NOTES.md)**.
+For more information about specific areas of this project, please refer to my **[personal notes](https://github.com/seymuralye/django-project.git/blob/master/NOTES.md)**.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -113,7 +96,7 @@ Please note for sake of ease, this project is set to work with the default confi
 
 ## Installation
 
-    $ git clone https://github.com/brennanbrown/django-project.git
+    $ git clone https://github.com/seymuralye/django-project.git
     $ cd django-project
 
 ### Virtual Environment (`venv`)
@@ -141,7 +124,7 @@ Once the server has started up, you can visit it at [localhost:8000/](localhost:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/brennanbrown/django-project/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/seymuralye/django-project.git/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -162,6 +145,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Brennan K. Brown - [@brennankbrown](https://twitter.com/brennanbrown) - [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+Seymur Aliyev: the_seymur@yahoo.com
 
-Project Link: [https://github.com/brennanbrown/django-project](https://github.com/brennanbrown/django-project)# django-project
+Project Link: [https://github.com/seymuralye/django-project.git](https://github.com/seymuralye/django-project.git)# django-project
